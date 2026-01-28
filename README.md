@@ -1,1 +1,38 @@
-# UrbanCart_Retail_Shop_Data_Insights_with_PostgreSQL_and_Supabase
+# UrbanCart_Retail_Data_Insights_PostgreSQL_Supabase_Integration
+UrbanCart is a rapidly growing online retail shop that operates across multiple cities, offering a wide range of consumer products. The company processes thousands of customer orders every month and seeks to leverage data analytics to enhance its business operations. This project focuses on using SQL to analyze the company's transactional data and generate valuable insights to help UrbanCart improve its business strategy, marketing decisions, product placement, bundling, and customer retention.
+📊 ## Slides Overview:
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+![UrbanCart Slides](https://example.com/path/to/your-image.png)
+
+🔧 ##Tools and Technologies Used:
+- **Supabase** – 🌐 (for cloud storage and backend)
+- **PostgreSQL** – 🗃️ (for database management)
+- **SQL Joins** – 🔗 (for combining data from multiple tables)
+- **CTEs** – 📝 (for simplifying complex queries)
+- **Aggregate Functions** – ➕ (for calculating metrics)
+- **Excel** – 📊 (for data visualization and graphs)
+- 

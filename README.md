@@ -3,7 +3,7 @@ UrbanCart is a rapidly growing online retail shop that operates across multiple 
 
 ## 📊Slides Overview:
 ![UrbanCart Slides](https://github.com/Mahamudha/UrbanCart_Retail_Shop_Data_Insights_with_PostgreSQL_and_Supabase/blob/98a5ea67c04361c79919fcf93a5ddf648ade4766/Images/UrbanCart_Retail_Shop_Data_Insights-images-0.jpg)
-![UrbanCart Slides1]([https://example.com/path/to/your-image.png](https://github.com/Mahamudha/UrbanCart_Retail_Shop_Data_Insights_with_PostgreSQL_and_Supabase/blob/98a5ea67c04361c79919fcf93a5ddf648ade4766/Images/UrbanCart_Retail_Shop_Data_Insights-images-1.jpg)
+![UrbanCart Slides1](https://github.com/Mahamudha/UrbanCart_Retail_Shop_Data_Insights_with_PostgreSQL_and_Supabase/blob/98a5ea67c04361c79919fcf93a5ddf648ade4766/Images/UrbanCart_Retail_Shop_Data_Insights-images-1.jpg)
 ![UrbanCart Slides2]([https://example.com/path/to/your-image.png](https://github.com/Mahamudha/UrbanCart_Retail_Shop_Data_Insights_with_PostgreSQL_and_Supabase/blob/98a5ea67c04361c79919fcf93a5ddf648ade4766/Images/UrbanCart_Retail_Shop_Data_Insights-images-2.jpg)
 ![UrbanCart Slides3]([https://example.com/path/to/your-image.png](https://github.com/Mahamudha/UrbanCart_Retail_Shop_Data_Insights_with_PostgreSQL_and_Supabase/blob/98a5ea67c04361c79919fcf93a5ddf648ade4766/Images/UrbanCart_Retail_Shop_Data_Insights-images-3.jpg)
 ![UrbanCart Slides]([https://example.com/path/to/your-image.png](https://github.com/Mahamudha/UrbanCart_Retail_Shop_Data_Insights_with_PostgreSQL_and_Supabase/blob/98a5ea67c04361c79919fcf93a5ddf648ade4766/Images/UrbanCart_Retail_Shop_Data_Insights-images-4.jpg)
